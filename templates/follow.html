@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Follow @muncorner di X!</title>
+    <script>
+        let countdown = 25;
+        function startCountdown() {
+            const timer = document.getElementById("timer");
+            const interval = setInterval(() => {
+                countdown--;
+                timer.innerText = countdown;
+                if (countdown === 0) {
+                    clearInterval(interval);
+                    window.location.href = "/input";
+                }
+            }, 1000);
+        }
+        window.onload = startCountdown;
+    </script>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        a { color: #1DA1F2; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Follow @muncorner di X!</h1>
+    <p><a href="https://x.com/muncorner" target="_blank">Klik di sini untuk follow</a></p>
+    <p>Kita bakal mulai dalam <span id="timer">25</span> detik...</p>
+</body>
+</html>
