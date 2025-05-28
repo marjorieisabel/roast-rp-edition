@@ -9,7 +9,7 @@ roasts = [
     "{username}? Stop nambah akun terus, cabang kamu udah banyak. Mau ngalahin cabang Mie Gacoan?",
     "{username} udahan jadi RP loyo, itu kasihan mention tab masih numpuk kayak tumpukan baju yang gak dilaundry selama 2 minggu.",
     "Ganti bio/layout tiap minggu, tapi perasaan malah masih stuck di masa lalu. {username}, waktunya buat upgrade perasaan juga biar gak ngestuck di situ-situ aja.",
-    "Posting new tweet terus, tapi mention sebelumnya gak pernah dibalas. {username} suka banget numpuk mention, nanti pas mau diving mentab malah pusing sendiri karena numpuk.",
+    "Posting new tweet terus, tapi mention sebelumnya gak pernah dibalas. Nanti pas mau diving mentab pasti si {username} bakal pusing sendiri karena mention 20+ belum terbalas.",
     "{username} yang doyan banget mention temen lain di tweet, aura kesepian kamu langsung kelihatan. Padahal temennya juga belum tentu balas.",
     "Eh kamu, {username} yang tiap hari lihat kemesraan orang lain di timeline. Udah waktunya giliran kamu yang pamer kemesraan biar gak jadi nyamuk timeline.",
     "Suka nyabang akun baru berkedok new life, akhirnya ketauan juga karena vibes dan typing masih sama kayak sebelumnya. Mau nyabang berapa banyak akun lagi, {username}?",
