@@ -4,18 +4,18 @@ import random
 app = Flask(__name__)
 
 roasts = [
-    "Kayaknya {username} dibesarkan oleh netizen X.",
-    "Kamu, iya kamu {username} yang suka on tengah malem cuma buat scroll X. Mantengin timeline apa emang lagi nungguin ada yang ngucapin kamu good night baru tidur?",
-    "{username}? Auto skip.",
-    "Si {username} suka banget nge-like tweet, tapi ngapain? Emang udah jadi paparazzi digital?",
-    "Update bio tiap minggu, tapi jati diri masih stuck di tweet 3 bulan lalu. {username} kayak akun yang lagi coba cari vibe tapi malah keteteran, kayak charger yang sok kuat tapi cuma tahan 5 menit doang.",
-    "Posting tweet vibes santai, tapi kenyataannya {username} lagi drama internal berat yang cuma bisa diungkap lewat emoji dan GIF random. Paham kok, tapi kalau kamu terus-terusan begitu, kapan happy-nya?",
-    "{username} yang doyan banget mention teman di tweet, padahal kadang temenmu cuma baca tanpa bales. Itu sama aja kayak ngirim undangan tapi yang dateng cuma kamu sendiri. Sedih, tapi lucu.",
-    "Eh kamu, {username} yang tiap malam ngabisin waktu scrolling X kayak lagi cari harta karun, tapi isinya cuma lihat orang lain makan atau nonton drama. Gak capek ya ngintip hidup orang lain tapi sendiri masih nganggur?",
-    "Suka bikin akun baru, akhirnya ketauan juga karena vibes masih sama kayak sebelumnya. Mau punya berapa banyak akun lagi, {username}?",
-    "Ngaku deh, {username} tuh akun yang paling sering “online” tapi paling males bales chat. Followers kamu pasti nunggu jawaban kamu kayak nunggu update season baru drama Korea.",
-    "Update-an {username} tuh sering kayak status galau yang cuma buat menarik perhatian. Padahal sih, followers juga pengen lihat kamu happy, bukan tambah bingung.",
-    "Kalau {username} jadi charger, pasti charger KW yang kadang nyetrum, kadang gak nge-charge sama sekali. Followers kamu juga gitu, kadang aktif, kadang hilang entah kemana.",
+    "Si {username} yang katanya mau LRP dari tahun lalu tapi kok sampai sekarang masih aktif? Belum siap kehilangan temen virtual atau emang masih belum nemu kegiatan di real life?",
+    "Kamu, iya kamu {username} yang suka on tengah malem cuma buat diving mention tab atau upchar. Aslinya emang karena gabut atau emang karena gak ada yang ucapin good night?",
+    "{username}? Stop nambah akun melulu, cabang kamu udah banyak. Mau ngalahin cabang Mie Gacoan?",
+    "{username} udahan jadi RP loyo, itu kasihan mention tab masih numpuk kayak tumpukan baju yang gak dilaundry selama 2 minggu.",
+    "Ganti bio/layout tiap minggu, tapi perasaan malah masih stuck di masa lalu. {username}, waktunya buat upgrade perasaan juga biar gak ngestuck di situ-situ aja.",
+    "Posting new tweet mulu, tapi mention sebelumnya gak pernah dibalas. {username} suka banget numpuk mention, nanti pas mau diving mentab malah pusing sendiri karena numpuk.",
+    "{username} yang doyan banget mention temen lain di tweet, aura kesepian kamu langsung kelihatan. Padahal temennya juga belum tentu balas.",
+    "Eh kamu, {username} yang tiap hari lihat kemesraan orang lain di timeline. Udah waktunya giliran kamu yang pamer kemesraan biar gak jadi nyamuk timeline.",
+    "Suka nyabang akun baru berkedok new life, akhirnya ketauan juga karena vibes dan typing masih sama kayak sebelumnya. Mau nyabang berapa banyak akun lagi, {username}?",
+    "Ngaku deh, {username} tuh akun yang paling sering “online” tapi paling males bales chat di DM. Padahal temenmu udah geram banget lihat kamu on tapi gak balas DM.",
+    "Si {username} yang bilangnya mau upchar, mau upchar tapi sampai sekarang belum upchar. Emang ketikan gak bisa dipercaya.",
+    "bdjdbd",
     "{username} tuh kayak spotlight di panggung kecil, bikin adem tapi gak pernah jadi bintang utama. Followers kamu? Mereka senang, tapi kadang pengen liat kamu lebih ngegas."
 ]
 
