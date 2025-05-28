@@ -13,7 +13,7 @@ roasts = [
     "{username} yang doyan banget mention temen lain di tweet, aura kesepian kamu langsung kelihatan. Padahal temennya juga belum tentu balas.",
     "Eh kamu, {username} yang tiap hari lihat kemesraan orang lain di timeline. Udah waktunya giliran kamu yang pamer kemesraan biar gak jadi nyamuk timeline.",
     "Suka nyabang akun baru berkedok new life, akhirnya ketauan juga karena vibes dan typing masih sama kayak sebelumnya. Mau nyabang berapa banyak akun lagi, {username}?",
-    "Ngaku deh, {username} tuh akun yang paling sering “online” tapi paling males bales chat di DM. Padahal temenmu udah geram banget lihat kamu on tapi gak balas DM.",
+    "Ngaku deh, {username} tuh akun yang paling sering “online” tapi paling males bales chat di DM. Padahal temenmu udah geram banget lihat kamu online tapi gak balas DM.",
     "Si {username} yang bilangnya mau upchar, mau upchar, tapi sampai sekarang belum upchar. Emang ketikan gak bisa dipercaya.",
     "{username} paling langganan jadi last bubble di group DM. Kalau ada trophy harian pasti kamu tiap hari dapet.",
     "Hey {username}, udah waktunya menyentuh rumput."
